@@ -22,8 +22,13 @@
   </a>
 </div>
 
+---
+
+
+![Preview1](https://user-images.githubusercontent.com/41547570/224386165-3d7963bc-8b97-4c25-91fb-8e5f9ba788f6.gif)
+
+
 <br/>
-<br/>
-<br/>
+
 
 <i> Tested with Game Version: 0.8.0.3 </i>
